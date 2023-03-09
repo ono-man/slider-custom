@@ -236,6 +236,10 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
+  <!-- slick slide -->
+    {{ 'slick.css' | asset_url | stylesheet_tag }}
+    {{ 'slick-theme.css' | asset_url | stylesheet_tag }}
+    <!-- End slick slide -->
   </head>
 
   <body class="gradient">
