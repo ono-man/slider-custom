@@ -44,7 +44,7 @@
         "f57aa884-3439-4c03-8fbc-fe5333525b6e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/transparent-glossy-plastic-lip-gloss-tube-mockup_439185-6125.jpg",
+            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
             "slide_title": "見出しが入ります。",
             "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
             "button_label": "Button label",
@@ -54,7 +54,7 @@
         "c8845e76-91d1-4c41-95c4-c21d72209f3f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/transparent-glossy-plastic-lip-gloss-tube-mockup_439185-6125.jpg",
+            "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
             "slide_title": "見出しが入ります。",
             "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
             "button_label": "Button label",
@@ -64,7 +64,7 @@
         "b6285122-cc96-4816-9d65-500903ea888f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lip-liner-lipstick-kit-box-packaging-mockup_439185-4579.jpg",
+            "image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
             "slide_title": "見出しが入ります。",
             "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
             "button_label": "Button label",
@@ -78,6 +78,7 @@
         "b6285122-cc96-4816-9d65-500903ea888f"
       ],
       "settings": {
+        "section-title": "任意のタイトルが入ります。",
         "slide_height": "adapt",
         "text_size": "medium",
         "text_alignment": "center center",
